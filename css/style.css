@@ -1,0 +1,40 @@
+.header_loge{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.header_link{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.header_link h2{
+    margin-left: 10px;
+}
+.span{
+    width: 50px;
+    height: 50px;
+    background-color: #4c4c4c;
+    border-radius: 100%;
+    margin-left: 10px;
+}
+.main_loge{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.main_img{
+    width: 300px;
+    height: 200px;
+}
+.main_img2{
+    width: 250px;
+    height: 100px;
+    padding: 20px 0;
+}
